@@ -1,0 +1,9 @@
+sudo apt update -- usado para actualizar los paquetes
+clear -- limpiar la terminal
+sudo apt upgrade -- funciona para actualizar el sistema de Linux, incluyendo los paquetes de seguridad
+sudo apt install -- funciona para instalar programas o paquetes
+sudo apt search --  implementa grep sobre la descripción de los paquetes
+sudo rm -- es un comando de borrado de archivo
+sudo kill --  para detener cualquier proceso
+ls -- enumera el contenido del directorio que desee, archivos y otros directorios anidados
+cd -- permite moverse entre directorios del sistema
